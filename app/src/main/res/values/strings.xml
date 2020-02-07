@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Koi</string>
     <string name="action_settings">Settings</string>
-    <string name="splashscreen">splashscreen</string>
+    <string name="splashscreen">splashScreen</string>
     <string name="startbutton">startButton</string>
     <string name="background">background</string>
 </resources>
