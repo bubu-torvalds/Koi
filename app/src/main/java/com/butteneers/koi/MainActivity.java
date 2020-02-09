@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void startKoi(View view) {
         Log.i("startKoi", "button pressed");
-        Intent intent = new Intent(this, SelectHiraganaActivity.class);
+        Intent intent = new Intent(this, MenuActivity.class);
         intent.putExtra(START_KOI_INTENT, "konnichiwa");
         startActivity(intent);
     }
