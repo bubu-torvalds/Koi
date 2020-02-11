@@ -4,4 +4,7 @@
     <string name="splashscreen">splashScreen</string>
     <string name="startbutton">startButton</string>
     <string name="background">background</string>
+    <string name="jouer">Jouer</string>
+    <string name="mon_vocabulaire">Mon Vocabulaire</string>
+    <string name="personnaliser">Personnaliser</string>
 </resources>
